@@ -1,0 +1,29 @@
+
+> scholasticastars-client@1.0.0 dev
+> vite --host 127.0.0.1 --port 5173
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m654[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m2:30:59 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/PaymentSubmit.jsx[22m
+[2m2:31:25 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/PaymentSubmit.jsx[22m
+[2m2:31:30 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminPayments.jsx[22m
+[2m2:31:34 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminStudents.jsx[22m
+[2m2:31:37 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/StudentProfile.jsx[22m
+[2m2:45:44 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminCourseManager.jsx[22m
+[2m2:46:39 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminCourseManager.jsx[22m
+[2m2:46:59 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CourseDetail.jsx[22m
+[2m2:47:20 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CourseDetail.jsx[22m
+[2m2:47:26 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LessonPlayer.jsx[22m
+[2m2:47:47 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m2:48:10 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m2:58:45 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminCourseManager.jsx[22m
+[2m2:58:53 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/CourseDetail.jsx[22m
+[2m2:59:11 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m3:09:23 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminCourseManager.jsx[22m
+[2m3:10:42 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminCourseManager.jsx[22m
+[2m3:10:53 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m3:11:15 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/VideoPlayer.jsx[22m
+[2m3:21:45 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminStudents.jsx[22m
+[2m3:26:00 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/AdminRoute.jsx[22m
